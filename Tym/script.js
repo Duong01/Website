@@ -1,4 +1,4 @@
-for(let i=0;i<10;i++){
+for(let i=0;i<1;i++){
     let span=document.createElement('span');
     span.style.left=Math.random() *innerWidth 
     + 'px';
